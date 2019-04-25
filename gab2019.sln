@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28809.33
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "gab.Database", "src\gab.Database\gab.Database.sqlproj", "{FAC0560F-1A61-41A2-AB96-78FA73DB972D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAC0560F-1A61-41A2-AB96-78FA73DB972D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC0560F-1A61-41A2-AB96-78FA73DB972D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC0560F-1A61-41A2-AB96-78FA73DB972D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FAC0560F-1A61-41A2-AB96-78FA73DB972D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC0560F-1A61-41A2-AB96-78FA73DB972D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC0560F-1A61-41A2-AB96-78FA73DB972D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {899DAEF4-46E5-48F3-BA09-E655C32E7E5E}
+	EndGlobalSection
+EndGlobal
