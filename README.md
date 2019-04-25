@@ -31,17 +31,10 @@ Instruções para execução do projeto:
 
 ## Referências 
 * Azure SQL Database: https://docs.microsoft.com/en-us/azure/sql-database/
-
 * SSDT: https://devblogs.microsoft.com/ssdt/
-
 * SSDT + Visual Studio: https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/SQL-Server-Data-Tools-for-Visual-Studio
-
 * DevOps: https://docs.microsoft.com/en-us/azure/devops/learn/what-is-devops
-
 * Azure DevOps: https://azure.microsoft.com/en-us/services/devops/
-
 * DevOps Using SQL Server: https://www.microsoft.com/en-us/sql-server/developer-get-started/sql-devops/
-
 * Database DevOps: https://azure.microsoft.com/pt-br/resources/videos/connect-2017-database-devops-with-sql-server-data-tools-and-team-services/
-
 * Treinamento DevOps for Databases: https://www.edx.org/course/devops-for-databases-2 
