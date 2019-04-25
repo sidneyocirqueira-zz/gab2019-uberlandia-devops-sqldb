@@ -1,5 +1,5 @@
-# Azure Global Boot Camp 2019 - DevOps - SQL Database
-Demo realizada no evento  [Azure Global Boot Camp 2019 - Uberlândia](http://bit.ly/bootcamp2019udia)
+# Global Azure Boot Camp 2019 - DevOps - SQL Database
+Demo realizada no evento  [Global Azure Boot Camp 2019 - Uberlândia](http://bit.ly/bootcamp2019udia)
 
 ## Sumário
 * [Palestra](#palestra)
@@ -39,3 +39,4 @@ Instruções para execução do projeto:
 * DevOps Using SQL Server: https://www.microsoft.com/en-us/sql-server/developer-get-started/sql-devops/
 
 * Database DevOps: https://azure.microsoft.com/pt-br/resources/videos/connect-2017-database-devops-with-sql-server-data-tools-and-team-services/
+* Treinamento DevOps for Databases: https://www.edx.org/course/devops-for-databases-2 
