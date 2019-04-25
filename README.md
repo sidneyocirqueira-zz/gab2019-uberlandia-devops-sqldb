@@ -1,6 +1,8 @@
 # Global Azure Boot Camp 2019 - DevOps - SQL Database
 Demo realizada no evento  [Global Azure Boot Camp 2019 - Uberlândia](http://bit.ly/bootcamp2019udia)
 
+![global](https://github.com/sidneyocirqueira/gab2019-uberlandia-devops-sqldb/blob/master/img/logo.jpg)
+
 ## Sumário
 * [Palestra](#palestra)
 * [Integrantes](#integrantes)
