@@ -1,4 +1,4 @@
-# Azure Global Boot Camp 2019 - Uberlândia - DevOps - SQL Database
+# Azure Global Boot Camp 2019 - DevOps - SQL Database
 Demo realizada no evento  [Azure Global Boot Camp 2019 - Uberlândia](http://bit.ly/bootcamp2019udia)
 
 ## Sumário
