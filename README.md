@@ -29,7 +29,7 @@ Instruções para execução do projeto:
 * Modelar SQL Database offline no Visual Studio e publicar para repositório;  
 ## CI/CD
 * Configurar [Azure Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/index?view=azure-devops) Build e Release via Azure DevOps;
-![pipeline]()
+![pipeline](https://github.com/sidneyocirqueira/gab2019-uberlandia-devops-sqldb/blob/master/img/pipelines-image-yaml.png)
 
 ## Referências 
 * Microsoft Learn: https://docs.microsoft.com/en-us/learn/
