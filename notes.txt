@@ -1,4 +1,0 @@
-server name:
-database name:gab2019
-sql login: sqladmin
-password: G@b2019DemoSqlDB
