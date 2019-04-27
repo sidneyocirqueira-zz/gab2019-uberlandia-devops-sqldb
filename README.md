@@ -13,7 +13,7 @@ Demo realizada no evento  [Global Azure Boot Camp 2019 - Uberlândia](http://bit
 
 ## Palestra
 * DevOps for Azure SQL Databases 
-[GAB2019.pdf](https://github.com/sidneyocirqueira/gab2019-uberlandia-devops-sqldb/tree/master/pdf)
+ [gab2019.pdf](https://github.com/sidneyocirqueira/gab2019-uberlandia-devops-sqldb/tree/master/pdf)
 
 ## Integrantes
 1. [Renan](https://github.com/renanlq) 
