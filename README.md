@@ -26,7 +26,7 @@ Demo realizada no evento  [Global Azure Boot Camp 2019 - Uberlândia](http://bit
 Instruções para execução do projeto:
 * Provisionar Ambiente de Azure SQL Database via [ARM Template](https://github.com/sidneyocirqueira/agb2019-uberlandia-devops-sqldb/tree/master/arm) com Power Shell;
 * Executar projeto via Visual Studio ou Visual Studio Code: [Solution](https://github.com/sidneyocirqueira/gab2019-uberlandia-devops-sqldb/blob/master/gab2019.sln) |  [SQL Project](https://github.com/sidneyocirqueira/gab2019-uberlandia-devops-sqldb/tree/master/src/gab.Database);
-* Criar [repositório](https://docs.microsoft.com/en-us/azure/devops/repos/index?view=azure-devops) no Azure DevOps;
+* Criar [repositório](https://docs.microsoft.com/en-us/azure/devops/repos/index?view=azure-devops) no Azure Repos;
 * Modelar SQL Database offline no Visual Studio e publicar para repositório;  
 ## CI/CD
 * Configurar [Azure Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/index?view=azure-devops) [Build](https://github.com/sidneyocirqueira/gab2019-uberlandia-devops-sqldb/blob/master/azure-pipelines.yml) e Release via Azure DevOps;
